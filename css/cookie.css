@@ -1,10 +1,12 @@
 .cookiebox1, .cookiebox2{
     width: 100%;
-    height: 500px;
+    height: auto;
     background-image:url(../Media/Pictures/backgrounds/achtergrondmuur.jpg);
+    background-size: cover;
     filter: brightness(0.8);
     border:solid #9ed167 5px;
     border-radius: 20px;
+    margin-bottom: 20px;
 }
 .row{
     margin-top: 150px;
@@ -22,4 +24,26 @@
     color: white;
     font-size: 30px;
     font-weight: bold;
+}
+.cookies{
+    font-size: 60px;
+    height: auto;
+    width: 100%;
+    background-image: url(../Media/Pictures/backgrounds/achtergrondmuur.jpg);
+        border:solid #9ed167 5px;
+    border-radius: 20px;
+}
+a{
+    color: white;
+    list-style-type: none;
+    font-size: 30px;
+}
+.spanbond{
+    color: white;
+    list-style-type: none;
+    font-size: 30px;
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
 }
