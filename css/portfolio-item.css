@@ -7,7 +7,17 @@
 body {
   padding-top: 54px;
 }
-
+.koopbutton{
+    background-image: linear-gradient(to left, #9ed167 , #99ba72);  
+    border: 3px solid black;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 3px;
+}
+.koopbutton:hover{
+    cursor: pointer;
+    filter: brightness(0.9);
+}
 @media (min-width: 992px) {
   body {
     padding-top: 56px;

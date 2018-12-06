@@ -39,6 +39,16 @@ textarea.form-control{
 .col-md-8{
     padding-left: 35%;
 }
+form{
+    display: none;
+}
+img{
+    width: 10%;
+    height: 10%;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius:50%;    
+}
 footer{
     margin-top: 200px;
     background-color: #222;
