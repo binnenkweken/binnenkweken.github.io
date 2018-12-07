@@ -4,3 +4,10 @@
     position: fixed;
     background: red;
 }
+a{
+    color: black;
+}
+a:hover{
+    color: black;
+    
+}

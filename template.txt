@@ -57,16 +57,14 @@
       <div class="row">
 
         <div class="col-md-8">
-          <img class="img-fluid" src="Media/Pictures/bedrijven/kweekkast.nl/kweekkast.nl.png" alt="">
+          <img class="img-fluid" src="http://placehold.it/750x500" alt="">
         </div>
 
         <div class="col-md-4">
-         <h1 class="my-3">Voor al uw kweekproducten</h1>
-          <button class="koopbutton"><a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">Ga nu naar de site </a><img src="http://ti.tradetracker.net/?c=13583&amp;m=504640&amp;a=321226&amp;t=pi" alt="" /></button>
+         <h1 class="my-3">€Prijs</h1>
+          <button class="koopbutton">Koop nu!</button>
           <h3 class="my-3">Beschrijving</h3>
-          <p>Hier vindt u diverse kweekspullen tegen scherpe prijzen.<br>
-           Bijvoorbeeld kweekkasten, irrigatiesystemen,<br>
-            kweeklampen en geurfilters!</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
           <h3 class="my-3">Plus-punten</h3>
           <ul>
             <li>Lorem Ipsum</li>
@@ -80,59 +78,32 @@
       <!-- /.row -->
 
       <!-- Related Projects Row -->
-      <h3 class="my-4">Wat je hier kan vinden.</h3>
+      <h3 class="my-4">Related Projects</h3>
 
       <div class="row">
 
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-            <img class="img-fluid" src="Media/Pictures/bedrijven/kweekkast.nl/kweekkast.kk.png" alt="Kweekkast">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
 
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-            <img class="img-fluid" src="Media/Pictures/bedrijven/kweekkast.nl/verlichting.kk.png" alt="verlichting">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
 
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-            <img class="img-fluid" src="Media/Pictures/bedrijven/kweekkast.nl/ventilatie.kk.jpg" alt="ventilatie">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
 
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-            <img class="img-fluid" src="Media/Pictures/bedrijven/kweekkast.nl/diversen.kk.jpg" alt="diversen">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
-        </div>
-
-      </div>
-       <div class="row">
-
-        <div class="col-md-3 col-sm-6 mb-4">
-             <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-                  <span class="extratekst">Kweek-kast</span>
-             </a>
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-             <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-                  <span class="extratekst">Verlichting</span>
-             </a>
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-             <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-                  <span class="extratekst">Ventilatie</span>
-             </a>           
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-             <a href="https://www.kweekkast.nl/kweken/?tt=13583_504640_321226_&amp;r=" target="_blank" rel="nofollow">
-                  <span class="extratekst">Diversen</span>
-             </a>
         </div>
 
       </div>
@@ -147,7 +118,7 @@
 <footer class="page-footer font-small blue">
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">Â© 2018 Copyright: Arno Meeuwsen
+  <div class="footer-copyright text-center py-3">© 2018 Copyright: Arno Meeuwsen
   </div>
   <!-- Copyright -->
 
