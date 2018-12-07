@@ -1,1 +1,1 @@
-alert("Als je op OK drukt ga je akkoord met de cookies.")
+alert("Als je op OK drukt ga je akkoord met de cookies.");
